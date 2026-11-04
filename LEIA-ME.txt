@@ -1,0 +1,8 @@
+SITE 02 — CONFEITARIA | DEMONSTRAÇÃO XGOLD
+
+Abra index.html no navegador. Filtros, botões de adicionar produtos, resumo do carrinho e validação do formulário funcionam localmente.
+O carrinho é temporário; não registra pedidos. Formulário não envia dados.
+Fotos ilustrativas carregadas via Unsplash (necessita internet).
+
+Personalize nome, produtos, preços e fotos no index.html. Para pedidos reais, conecte WhatsApp, formulário ou backend.
+Compatível com hospedagem estática.
